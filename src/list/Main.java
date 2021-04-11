@@ -25,6 +25,5 @@ public class Main {
         while (iterator1.hasNext()) {
             System.out.print(iterator1.next() + " - ");
         }
-
      }
 }
